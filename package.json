@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jrgleason/webpack-vue-template/issues"
   },
-  "homepage": "https://github.com/jrgleason/webpack-vue-template#readme"
+  "homepage": "https://github.com/jrgleason/webpack-vue-template#readme",
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  }
 }
